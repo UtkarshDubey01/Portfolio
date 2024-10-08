@@ -478,10 +478,10 @@ img{
     .home__container {
         height: 640px;
     }
-    .home__img {
+   /* .home__img {
         width: 500px;
         right: 24%;
-    }
+    } */
 
 }
 
